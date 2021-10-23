@@ -18,9 +18,9 @@ body {
 
 main {
   background: url(images/background.svg) no-repeat center/cover;
-  width: 80vw;
+  width: 100vw;
   min-height: 812px;
-  height: 90vh;
+  height: 100vh;
 }
 
 .container {
