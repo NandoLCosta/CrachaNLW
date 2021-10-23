@@ -19,8 +19,8 @@ body {
 main {
   background: url(images/background.svg) no-repeat center/cover;
   width: 100vw;
-  min-height: 612px;
-  height: 90vh;
+  min-height: 1550px;
+  height: 100vh;
 }
 
 .container {
