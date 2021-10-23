@@ -1,7 +1,7 @@
 //Objeto Links com todas as Redes Sociais
 const linksSocialMedia = {
   github: 'NandoLCosta',
-  youtube: 'UCmpXA9Ty96fcRIClXwnHe3Q',
+  youtube: 'channel/UCmpXA9Ty96fcRIClXwnHe3Q',
   facebook: 'nandoL.Santos',
   instagram: 'costsants',
   twitter: 'FeCosta_wind?t=MqjSztuoMrI9VTZdTrHzyw&s=09'
